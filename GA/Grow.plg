@@ -1,0 +1,87 @@
+<html>
+<body>
+<pre>
+<h1>Erstellungsprotokoll</h1>
+<h3>
+--------------------Konfiguration: Grow - Win32 Debug--------------------
+</h3>
+<h3>Befehlszeilen</h3>
+Erstellen der temporären Datei  "C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP19A.tmp" mit Inhalten
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Oi /I "C:\Programme\Anwendungen\Metoolkit\3rdParty\glut" /I "C:\Programme\Anwendungen\Metoolkit\include" /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/Grow.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"G:\Daten\Programming\C++\Diplomarbeit\GA\0 Vergleich\Grow.cpp"
+]
+Creating command line "cl.exe @C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP19A.tmp" 
+Erstellen der temporären Datei  "C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP19B.tmp" mit Inhalten
+[
+McdFrame.lib McdPrimitives.lib McdDtBridge.lib MeMemory.lib MdtBcl.lib MeViewer.lib Mdt.lib MdtKea.lib MeGlobals.lib MeMessage.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Grow.pdb" /debug /machine:I386 /out:"Debug/Grow.exe" /pdbtype:sept /libpath:"C:\Programme\Anwendungen\Metoolkit\3rdParty\glut" /libpath:"C:\Programme\Anwendungen\Metoolkit\lib" 
+".\Debug\agent.obj"
+".\Debug\channel.obj"
+".\Debug\element.obj"
+".\Debug\genome.obj"
+".\Debug\Grow.obj"
+".\Debug\growGA.obj"
+".\Debug\list.obj"
+".\Debug\mathWorld.obj"
+".\Debug\neuralnet.obj"
+".\Debug\simParams.obj"
+".\Debug\StdAfx.obj"
+]
+Erstellen der Befehlzeile "link.exe @C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP19B.tmp"
+<h3>Ausgabefenster</h3>
+Kompilierung läuft...
+Grow.cpp
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(55) : warning C4305: 'initializing' : Verkuerzung von 'const double' in 'float'
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(56) : warning C4244: 'initializing' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(59) : warning C4244: 'initializing' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(61) : warning C4244: 'initializing' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(62) : warning C4244: 'initializing' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(63) : warning C4244: 'initializing' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(64) : warning C4244: 'initializing' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(65) : warning C4244: 'initializing' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(66) : warning C4244: 'initializing' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(67) : warning C4244: 'initializing' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(68) : warning C4244: 'initializing' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(74) : warning C4244: 'initializing' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(79) : warning C4305: 'initializing' : Verkuerzung von 'const double' in 'float'
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(85) : warning C4305: 'initializing' : Verkuerzung von 'const double' in 'float'
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(86) : warning C4305: 'initializing' : Verkuerzung von 'const double' in 'float'
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(101) : warning C4305: 'initializing' : Verkuerzung von 'const double' in 'float'
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\constants.h(145) : warning C4305: 'initializing' : Verkuerzung von 'const double' in 'float'
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\grow.cpp(138) : warning C4244: 'argument' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\grow.cpp(144) : warning C4244: 'argument' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\grow.cpp(159) : warning C4244: 'argument' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\grow.cpp(164) : warning C4244: 'argument' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\grow.cpp(177) : warning C4244: 'argument' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\grow.cpp(234) : warning C4244: '=' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\grow.cpp(236) : warning C4244: '=' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\grow.cpp(238) : warning C4244: '=' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\grow.cpp(240) : warning C4244: '=' : Konvertierung von 'double' in 'float', moeglicher Datenverlust
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\grow.cpp(94) : warning C4101: 'directory' : Unreferenzierte lokale Variable
+g:\daten\programming\c++\diplomarbeit\ga\0 vergleich\grow.cpp(353) : warning C4305: '=' : Verkuerzung von 'const double' in 'float'
+Linker-Vorgang läuft...
+Erstellen der temporären Datei  "C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP19C.tmp" mit Inhalten
+[
+/nologo /o"Debug/Grow.bsc" 
+".\Debug\StdAfx.sbr"
+".\Debug\agent.sbr"
+".\Debug\channel.sbr"
+".\Debug\element.sbr"
+".\Debug\genome.sbr"
+".\Debug\Grow.sbr"
+".\Debug\growGA.sbr"
+".\Debug\list.sbr"
+".\Debug\mathWorld.sbr"
+".\Debug\neuralnet.sbr"
+".\Debug\simParams.sbr"]
+Erstellen der Befehlzeile "bscmake.exe @C:\DOKUME~1\DANIEL~1\LOKALE~1\Temp\RSP19C.tmp"
+Browse-Informationsdatei wird erstellt...
+<h3>Ausgabefenster</h3>
+
+
+
+<h3>Ergebnisse</h3>
+Grow.exe - 0 Fehler, 28 Warnung(en)
+</pre>
+</body>
+</html>

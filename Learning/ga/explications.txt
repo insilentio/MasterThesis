@@ -1,0 +1,28 @@
+					rating
+ga5093.dat ist von  0 normal daniel	+
+ga1696.dat ist von 10 normal daniel	++
+ga4690.dat ist von 20 normal daniel	+
+ga3441.dat ist von 30 normal daniel	-
+ga2755.dat ist von 40 normal daniel	-
+ga3777.dat ist von 50 normal daniel	-
+ga5992.dat ist von 60 normal daniel	-
+ga2884.dat ist von 70 normal daniel	-
+ga5307.dat ist von 80 normal daniel	+
+ga6012.dat ist von 90 normal daniel	++
+ga133.dat  ist von 15 normal daniel	++
+ga241.dat  ist von 23 normal daniel	+
+ga50a.dat  ist von 22 normal daniel	+++
+ga50.dat   ist von 25 normal daniel	-
+ga101.dat  ist von 26 normal daniel	++
+ga244.dat  ist von 27 normal daniel	++++
+
+
+ga4953.dat ist von 10 normal biped2	-
+ga5277.dat ist von 20 normal biped2	-
+ga5582.dat ist von 20 passive biped2	-
+ga5503.dat ist von 30 normal biped2	-
+ga9699.dat ist von 40 passive biped2	-
+
+
+
+ga1131.dat ist von 30 normal biped3	-
